@@ -1,6 +1,3 @@
-[![Open In Colab]https://github.com/Hash-tag-09/FedEx-Logistics-Performance-Analysis/blob/1a49160ba07c0b9fb1d60e0189317585fcf0d21b/FedEx_Logistics_performance_Analysis.ipynb
-# FedEx SCMS Logistics Analysis (2006-2015)
-
 ## 📌 Project Overview
 This project analyzes the Supply Chain Management System (SCMS) of FedEx Logistics. 
 The goal is to optimize delivery timelines, identify bottlenecks, and reduce 
