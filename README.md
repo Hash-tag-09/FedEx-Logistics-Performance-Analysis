@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hash-tag-09/FedEx-Logistics-Performance-Analysis
+/blob/main/FedEx-Logistics-Performance-Analysis
+.ipynb)
 # FedEx SCMS Logistics Analysis (2006-2015)
 
 ## 📌 Project Overview
